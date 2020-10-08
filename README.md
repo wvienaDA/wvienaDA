@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola! 👋
+
+Mi nombre es William Viena, soy de la ciudad de Iquitos - Perú 🇵🇪, actualmente vivo en la ciudad de Lima - Perú 🇵🇪. Soy ing. de sistemas e informática, programador Full Stack.
+
+💻 Mi código se centra principalmente en desarrollo web Front-End con JavaScript y backend con PHP.
+
+Estamos para compartir nuestros conocimientos que adquirimos día a día.
+
+<a href="https://www.instagram.com/williamviena/" rel="nofollow">Instagram</a>
 
 <!--
 **wvienaDA/wvienaDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
